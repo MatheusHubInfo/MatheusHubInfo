@@ -29,3 +29,12 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-2C2255.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=ffffff)
 ---
+
+### Would you like to find me?
+
+
+[<img align="left" alt="zlincon | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/matheusxc)
+
+<br />
+
+---
