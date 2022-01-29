@@ -39,8 +39,9 @@
 
 Atualmente estou estudando Java, Spring e React/JavaScript.
 
-Cursando Back-End Java : 50H Orientação a Objetos (Udemy).
-Cursando eventos semanais de Front-End em React (Alura, Dio, AlgaWorks e Kenzie).
+- Cursando Back-End Java : 50H Orientação a Objetos (Udemy).
+  
+- Cursando eventos semanais de Front-End em React (Alura, Dio, AlgaWorks e Kenzie).
 </p>
 
 ---
