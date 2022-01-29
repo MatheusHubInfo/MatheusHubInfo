@@ -41,18 +41,6 @@ Atualmente estou estudando Java, Spring e React/JavaScript.
 
 Cursando Back-End Java : 50H Orientação a Objetos (Udemy).
 Cursando eventos semanais de Front-End em React (Alura, Dio, AlgaWorks e Kenzie).
-
-GitHub : https://github.com/matheusHubInfo
-
-** Projetos **
-
-Projeto Spring e React.js : https://matheusdsmovie.netlify.app/
-
-Projeto Site Chat em React.js : https://aluracord-matrix-eight-xi.vercel.app/
-
-Jogo Mobile - Android - Donwload - http://ai2.appinventor.mit.edu/b/1hsa8
-
-My site HTML and CSS : https://matheusweb.netlify.app/
 </p>
 
 ---
