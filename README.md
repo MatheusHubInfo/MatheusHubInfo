@@ -34,6 +34,29 @@
 
 ---
 
+<p>
+  Objetivo de atuar/Estagiar com Desenvolvimento Back-End em JAVA ou desenvolvimento Front-End em React.Js (JavaScript).
+
+Atualmente estou estudando Java, Spring e React/JavaScript.
+
+Cursando Back-End Java : 50H Orientação a Objetos (Udemy).
+Cursando eventos semanais de Front-End em React (Alura, Dio, AlgaWorks e Kenzie).
+
+GitHub : https://github.com/matheusHubInfo
+
+** Projetos **
+
+Projeto Spring e React.js : https://matheusdsmovie.netlify.app/
+
+Projeto Site Chat em React.js : https://aluracord-matrix-eight-xi.vercel.app/
+
+Jogo Mobile - Android - Donwload - http://ai2.appinventor.mit.edu/b/1hsa8
+
+My site HTML and CSS : https://matheusweb.netlify.app/
+</p>
+
+---
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=MatheusHubInfo&show_icons=true&theme=radical&line_height=33&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHubInfo&layout=compact&theme=radical&langs_count=6&card_width=250">
