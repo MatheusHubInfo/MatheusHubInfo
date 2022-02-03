@@ -2,10 +2,10 @@
 
 ### My litle projects:
 
-- DSMovie - Site de Avaliação - SDS6 - https://matheusdsmovie.netlify.app/
-- Projeto Site Chat em React.js : https://aluracord-matrix-eight-xi.vercel.app/
+- DSMovie - Site de Avaliação de Filmes - SDS6 - https://matheusdsmovie.netlify.app/
+- Projeto - Chat Discord em React.js : https://aluracord-matrix-eight-xi.vercel.app/
 - Jogo Mobile - Android - Donwload - http://ai2.appinventor.mit.edu/b/1hsa8
-- My site HTML and CSS - https://matheusweb.netlify.app/
+- Meu site HTML e CSS - https://matheusweb.netlify.app/
 
 ---
 
