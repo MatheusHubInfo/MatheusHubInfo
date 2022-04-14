@@ -5,7 +5,8 @@
 - DSMovie - Site de Avaliação de Filmes - SDS6 - https://matheusdsmovie.netlify.app/
 - Projeto - Chat Discord em React.js - https://good-chat.vercel.app/
 - Jogo Mobile - Android - Donwload - solicite no meu email - mm5426875@gmail.com
-- Cordel - https://matheushubinfo.github.io/cordel/
+- Site Poema Café - https://matheushubinfo.github.io/cafe/
+- Site Poema Cordel - https://matheushubinfo.github.io/cordel/
 
 ---
 
